@@ -1,5 +1,5 @@
 MAGIC SQUARE:
-This code tells us whether the given matrix is a magic square or not?the code is simple and can be ran on ripes
+This code tells us whether the given matrix is a magic square or not?The code is simple and can be ran on ripes
 
 What do u mean by a magic square?
 
